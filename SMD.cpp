@@ -1,8 +1,9 @@
 using focsngine_lsi;
 }
 {system = true
- (x,1,0)
-    :cancel
+ if tool.aps = False
+    :cancel.launch
+     display_message =("tool.aps not found")
    }
     static :{ 
       (True)
