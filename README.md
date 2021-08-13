@@ -4,7 +4,7 @@ You are allowed to fix and modify the code in this repository.
 If you want unmodifed code please download it on Focsgine.com/download/ or for beta builds vist focs.dev/beta/builds/
 If you want go to our support and forum page visit focs.dev/forum
 
-![Doc](https://user-images.githubusercontent.com/87952671/129299692-3bbfdb25-c840-40fc-83fc-b7a2b4ac536f.png)
+![Doc](https://user-images.githubusercontent.com/87952671/129308500-e4d0ed87-23fb-446c-83b2-d443559cb1cb.png)
 
 # Features and advantages
 Focsngine is a always free open-source game engine built on Python and C++
