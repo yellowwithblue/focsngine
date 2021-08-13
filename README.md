@@ -10,7 +10,7 @@ If you want go to our support and forum page visit focs.dev/forum
 Focsngine is a always free open-source game engine built on Python and C++
 1. No coding required! 
 2. Use the easy to use control blocks setting to set controls and movement for your game.
-4. No price cuts and always free!
+4. No price cuts and always free licensed under the MIT License.
 5. Support's .blend models and realistic and normal 3D shaders.
 6. Support's coding with C++(C) and Python(C) and FocsCP.
 7. Add .blend animations or animate with the animation tool in Focsngine. 
