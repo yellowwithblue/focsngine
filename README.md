@@ -18,3 +18,4 @@ Focsngine is a always free open-source game engine built on Python and C++
 9. Focsngine is also a animation software and a modeling software.
 10. Make cool easy 2D games with the 2D game builder!
 11. Easy to use no skill required!
+12. Set up 
