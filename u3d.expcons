@@ -2,4 +2,8 @@ $for-case
    
   {
     class-method{j-method}
+    int z = 10
+    for z, in 10 {
+     return false
+    }
   }
